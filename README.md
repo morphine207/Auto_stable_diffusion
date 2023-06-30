@@ -23,7 +23,9 @@ Clone the repository and install the required libraries:
 bash
 
 git clone https://github.com/morphine207/Auto_stable_diffusion.git
+
 cd AutoSD
+
 pip install -r requirements.txt
 
 ## Usage
