@@ -1,4 +1,4 @@
-#AutoSD (Auto Stable Diffusion)
+# AutoSD (Auto Stable Diffusion)
 Overview
 
 AutoSD is a project that integrates GPT-based AI agents to generate Stable Diffusion image prompts. The agents communicate and collaborate to come up with innovative and appealing image prompts based on the Stable Diffusion process.
@@ -8,7 +8,7 @@ Features
     Stable Diffusion image prompt generation.
     Automated workflow for continuous generation of diverse image prompts.
 
-##Prerequisites
+## Prerequisites
 
 To work with AutoSD, you'll need:
 
@@ -16,7 +16,7 @@ To work with AutoSD, you'll need:
     An environment with the necessary libraries installed. Check the requirements.txt for a list of required libraries.
     A basic understanding of GPT-based AI and Stable Diffusion processes.
 
-##Installation
+## Installation
 
 Clone the repository and install the required libraries:
 
@@ -26,7 +26,7 @@ git clone https://github.com/user/AutoSD.git
 cd AutoSD
 pip install -r requirements.txt
 
-Usage
+## Usage
 
 Navigate to the main directory and run the main script:
 
@@ -39,7 +39,3 @@ python AutoSD.py
 
 If you encounter any issues or have questions, please file an issue on the GitHub repository.
 Authors and Acknowledgment
-
-AutoSD was created by Parvez Rumi. We appreciate all the contributors who have helped improve this project.
-
-Enjoy using AutoSD!
